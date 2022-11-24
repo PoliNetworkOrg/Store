@@ -91,8 +91,7 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 							},
 							{
 								name: 'Lenovo',
-								specs: [
-								],
+								specs: [],
 								stars: 4.5,
 								url: 'https://www.amazon.it/HP-255-G8-portatile-DDR4-SDRAM/dp/B08T9V1FG9',
 								image: '',
@@ -123,8 +122,7 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 							},
 							{
 								name: 'Lenovo',
-								specs: [
-								],
+								specs: [],
 								stars: 3,
 								url: 'https://www.amazon.it/Notebook-Lenovo-Display-Dvd-Cd-Gar-Italia/dp/B07HMK1PSG',
 								image: 'https://m.media-amazon.com/images/I/81dIT1iDUgL._AC_SL1500_.jpg',
@@ -386,15 +384,13 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 							},
 							{
 								name: '',
-								specs: [
-								],
+								specs: [],
 								stars: 3,
 								url: 'https://amzn.to/3EElf3A',
 								image: 'https://m.media-amazon.com/images/I/81dIT1iDUgL._AC_SL1500_.jpg',
 								price: { value: 459.0, time: '2022-11-24T23:00:01' },
 								complete: true,
 							},
-							
 						],
 					},
 					{
