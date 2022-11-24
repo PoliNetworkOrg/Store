@@ -70,7 +70,7 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 								],
 								stars: 4.5,
 								url: 'https://amzn.to/3EB0Hcn',
-								image: 'fhttps://m.media-amazon.com/images/I/81nkSdV+0wL._AC_SL1500_.jpgoto',
+								image: 'https://m.media-amazon.com/images/I/81nkSdV+0wL._AC_SL1500_.jpgoto',
 								price: { value: 290, time: '2022-11-24T23:00:01' },
 								complete: false,
 							},
