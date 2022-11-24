@@ -60,6 +60,21 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 						extra: ['Ad informatica il software più pesante, prestazionalmente, è Vivado'],
 						pcs: [
 							{
+								name: 'HP ',
+								specs: [
+									['processore', 'processore'],
+									['RAM', 'RAM '],
+									['scheda grafica', 'scheda grafica'],
+									['SSD', 'SSD'],
+									['schermo', 'schermo'],
+								],
+								stars: 4.5,
+								url: 'https://amzn.to/3EB0Hcn',
+								image: 'fhttps://m.media-amazon.com/images/I/81nkSdV+0wL._AC_SL1500_.jpgoto',
+								price: { value: 290, time: '2022-11-24T23:00:01' },
+								complete: false,
+							},
+							{
 								name: 'MSI Katana GF66 11UC-1224IT',
 								specs: [
 									['Intel I7-11800H', ''],
@@ -69,9 +84,9 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 									['15.6" FHD', ''],
 								],
 								stars: 4,
-								url: 'https://www.amazon.it/MSI-11UC-1224IT-Notebook-I7-11800H-Garanzia/dp/B09PLNW8KP',
+								url: 'https://amzn.to/3Xufy0O',
 								image: 'https://m.media-amazon.com/images/I/71yxQ9XaIwL._AC_SL1500_.jpg',
-								price: { value: 999.0, time: '2022-11-24T17:00:00' },
+								price: { value: 1199.0, time: '2022-11-24T23:00:00' },
 								complete: true,
 							},
 							{
@@ -130,6 +145,51 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 						},
 						extra: [],
 						pcs: [
+							{
+								name: ' ',
+								specs: [
+									['processore', 'processore'],
+									['RAM', 'RAM '],
+									['scheda grafica', 'scheda grafica'],
+									['SSD', 'SSD'],
+									['schermo', 'schermo'],
+								],
+								stars: 3,
+								url: 'link',
+								image: 'foto',
+								price: { value: 0.0, time: '2022-11-22T19:00:01' },
+								complete: false,
+							},
+							{
+								name: ' ',
+								specs: [
+									['processore', 'processore'],
+									['RAM', 'RAM '],
+									['scheda grafica', 'scheda grafica'],
+									['SSD', 'SSD'],
+									['schermo', 'schermo'],
+								],
+								stars: 3,
+								url: 'link',
+								image: 'foto',
+								price: { value: 0.0, time: '2022-11-22T19:00:01' },
+								complete: false,
+							},
+							{
+								name: ' ',
+								specs: [
+									['processore', 'processore'],
+									['RAM', 'RAM '],
+									['scheda grafica', 'scheda grafica'],
+									['SSD', 'SSD'],
+									['schermo', 'schermo'],
+								],
+								stars: 3,
+								url: 'link',
+								image: 'foto',
+								price: { value: 0.0, time: '2022-11-22T19:00:01' },
+								complete: false,
+							},
 							{
 								name: ' ',
 								specs: [
@@ -319,11 +379,22 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 									['schermo', 'schermo'],
 								],
 								stars: 3,
-								url: 'link',
-								image: 'foto',
-								price: { value: 0.0, time: '2022-11-22T19:00:01' },
+								url: 'https://amzn.to/3gvrEX8',
+								image: 'https://m.media-amazon.com/images/I/813huG+CTIL._AC_SL1500_.jpg',
+								price: { value: 0.0, time: '2022-11-24T23:00:01' },
 								complete: false,
 							},
+							{
+								name: '',
+								specs: [
+								],
+								stars: 3,
+								url: 'https://amzn.to/3EElf3A',
+								image: 'https://m.media-amazon.com/images/I/81dIT1iDUgL._AC_SL1500_.jpg',
+								price: { value: 459.0, time: '2022-11-24T23:00:01' },
+								complete: true,
+							},
+							
 						],
 					},
 					{
