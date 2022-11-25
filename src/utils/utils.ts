@@ -212,7 +212,7 @@ export async function getPCmap(): Promise<SchoolToPCs> {
 								stars: 4,
 								url: 'https://amzn.to/3gwWiPE',
 								image: 'https://m.media-amazon.com/images/I/616JKwpx64L._AC_SY450_.jpg',
-								price: { value: 1219.0, time: '2022-11-25T112:44:01' },
+								price: { value: 1219.0, time: '2022-11-25T12:44:01' },
 								complete: true,
 							},
 				
